@@ -149,11 +149,11 @@ STREAMI_PICS = [
 ]
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://i.ibb.co/xPjc7tv/help-menu.jpg"
+    "START_IMG_URL", "https://files.catbox.moe/0pivxm.jpg"
 )
 
 HELP_IMG_URL = getenv(
-    "HELP_IMG_URL", "https://i.ibb.co/xPjc7tv/help-menu.jpg"
+    "HELP_IMG_URL", "https://files.catbox.moe/1ikzq8.jpg"
 )
 
 PING_IMG_URL = getenv(
