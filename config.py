@@ -15,13 +15,13 @@ API_HASH = getenv("API_HASH")
 BOT_TOKEN = getenv("BOT_TOKEN")
 BOT_ID = getenv("BOT_ID")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","ZeoXpro")
+OWNER_USERNAME = getenv("OWNER_USERNAME","Legend_mickey")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "AqiaBot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "SUKKUXROBOT")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "Aqia")
+BOT_NAME = getenv("BOT_NAME" , "Clone")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "AqiaPro")
+ASSUSERNAME = getenv("ASSUSERNAME" , "sukkuxd")
 # ---------------------------------------------------------
 
 
@@ -37,11 +37,11 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 # ----------------------------------------------------------------
 
 # ----------------------------------------------------------------
-LOGGER_ID = int(getenv("LOGGER_ID"))
-CLONE_LOGGER = LOGGER_ID
+LOGGER_ID = int(getenv("LOGGER_ID", -1002046320443))
+CLONE_LOGGER = -1002046320443
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 7355202884))
+OWNER_ID = int(getenv("OWNER_ID", 7685111725))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 # config.py
@@ -54,10 +54,10 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-SOURCE = getenv("SOURCE", "https://github.com/TeamProBots/Clonify")
+SOURCE = getenv("SOURCE", "https://t.me/The_Incricible")
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/TeamProBots/Clonify",
+    "https://github.com/fefefe12/Fefesukuclone",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
@@ -72,9 +72,9 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ProBotts")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/ProBotGc")
-CHAT = getenv("CHAT", "https://t.me/ProBotGc")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/The_Incricible")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/zoyu_support")
+CHAT = getenv("CHAT", "https://t.me/zoyu_support")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
@@ -149,21 +149,21 @@ STREAMI_PICS = [
 ]
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://i.ibb.co/xPjc7tv/help-menu.jpg"
+    "START_IMG_URL", "https://files.catbox.moe/0pivxm.jpg"
 )
 
 HELP_IMG_URL = getenv(
-    "HELP_IMG_URL", "https://i.ibb.co/xPjc7tv/help-menu.jpg"
+    "HELP_IMG_URL", "https://files.catbox.moe/1ikzq8.jpg"
 )
 
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://i.ibb.co/VWnm6f3f/ping.jpg"
+    "PING_IMG_URL", "https://files.catbox.moe/o2e21c.jpg"
 )
-PLAYLIST_IMG_URL = "https://i.ibb.co/gL3ykkyh/play-music.jpg"
-STATS_IMG_URL = "https://i.ibb.co/pBqPtFYn/statistics.jpg"
-TELEGRAM_AUDIO_URL = "https://i.ibb.co/gL3ykkyh/play-music.jpg"
-TELEGRAM_VIDEO_URL = "https://i.ibb.co/gL3ykkyh/play-music.jpg"
-STREAM_IMG_URL = "https://i.ibb.co/0VKCS20y/stream.jpg"
+PLAYLIST_IMG_URL = "https://files.catbox.moe/4q64a8.jpg"
+STATS_IMG_URL = "https://files.catbox.moe/nms68p.jpg"
+TELEGRAM_AUDIO_URL = "https://files.catbox.moe/4q64a8.jpg"
+TELEGRAM_VIDEO_URL = "https://files.catbox.moe/4q64a8.jpg"
+STREAM_IMG_URL = "https://files.catbox.moe/d3z1o5.jpg"
 SOUNCLOUD_IMG_URL = "https://i.ibb.co/S4sPf3q8/soundcloud.jpg"
 YOUTUBE_IMG_URL = "https://i.ibb.co/xShkBVBK/youtube.jpg"
 SPOTIFY_ARTIST_IMG_URL = "https://i.ibb.co/XZfMS8Db/spotify.jpg"
