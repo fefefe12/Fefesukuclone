@@ -161,8 +161,8 @@ PING_IMG_URL = getenv(
 )
 PLAYLIST_IMG_URL = "https://files.catbox.moe/4q64a8.jpg"
 STATS_IMG_URL = "https://files.catbox.moe/nms68p.jpg"
-TELEGRAM_AUDIO_URL = "https://i.ibb.co/gL3ykkyh/play-music.jpg"
-TELEGRAM_VIDEO_URL = "https://i.ibb.co/gL3ykkyh/play-music.jpg"
+TELEGRAM_AUDIO_URL = "https://files.catbox.moe/4q64a8.jpg"
+TELEGRAM_VIDEO_URL = "https://files.catbox.moe/4q64a8.jpg"
 STREAM_IMG_URL = "https://i.ibb.co/0VKCS20y/stream.jpg"
 SOUNCLOUD_IMG_URL = "https://i.ibb.co/S4sPf3q8/soundcloud.jpg"
 YOUTUBE_IMG_URL = "https://i.ibb.co/xShkBVBK/youtube.jpg"
